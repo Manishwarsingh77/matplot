@@ -1,2 +1,2 @@
 # matplot
-Is consists lot of graphs and charts, for better knowledge.
+It consists lot of graphs and charts, for better knowledge.
